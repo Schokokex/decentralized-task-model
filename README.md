@@ -1,4 +1,4 @@
-# web-3-0-server-client
+# How to solve decentralized tasks
 
 1. the client reserves storage and processing power
 2. the client tells the network how much it allocated
